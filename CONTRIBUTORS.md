@@ -22,6 +22,7 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 ## Student Entries:
 <!-- Students: Add your entries below this line! -->
 Vinayak Javaly (GitHub: vjavaly2): My favorite movie is Apocalypse Now!
+Vinayak Javaly (GitHub: vjavaly2): My second favorite movie is The Big Chill
 
 
 
